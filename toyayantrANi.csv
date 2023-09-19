@@ -1,0 +1,6 @@
+aGgula,mm,17.65 mm
+ghaTikAGgula,mm,1 * aGgula
+v,mps,( 60 * ghaTikAGgula ) / ( 86400 s )
+a,mm,( v * v ) / ( 2 * 9.8 m / s^2 )
+r0,mm,0.5 mm
+hbya,,( ghaTikAGgula * 2 * 9.8 m / s^2 ) / ( v * v )
